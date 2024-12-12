@@ -1,0 +1,10 @@
+id: "1733996700297"
+title: "Test note 1"
+lastModified: "2024-12-12T10:45:00.297342"
+githubPath: "notes/1733996700297.yaml"
+tags:
+  - test
+  - dev
+  - debug
+---
+Hopefully the tags are stored in the tags.yaml...
